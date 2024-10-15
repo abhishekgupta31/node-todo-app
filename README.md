@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # node-todo-cicd
 
 Run these commands:
@@ -17,3 +18,7 @@ or Run by docker compose
 
 test
 
+=======
+# node-todo-app
+devops
+>>>>>>> origin/main
